@@ -1,4 +1,4 @@
-items de configuração de projeto
+Items de configuração de projeto
 
 Tecnologia usada - Node JS
 Ferramentas usadas 
